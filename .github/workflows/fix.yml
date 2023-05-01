@@ -32,4 +32,4 @@ jobs:
           repository: .
           commit_user_name: panda-repo
           commit_user_email: 128521829+panda-repo@users.noreply.github.com
-          commit_author: Pandapies <128521829+panda-repo@users.noreply.github.com>
+          commit_author: panda-repo <128521829+panda-repo@users.noreply.github.com>
