@@ -1,4 +1,4 @@
-name: Fixed By Pandapied
+name: Fixed By Pandapies
 
 on: [push, pull_request]
 
