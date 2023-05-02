@@ -1,5 +1,5 @@
-LOG_GROUP_ID = -1001834104418
-OWNER_ID = [5523216254]
+LOG_GROUP_ID = -1001904599622
+OWNER_ID = [2048585197]
 HANDLER = ["~", ".", "!"]
 ALIVE_TEXT = """ **~  Pandapies System:**
 ━━━━━━━━━━━━━━━━━━━
@@ -12,9 +12,9 @@ ALIVE_TEXT = """ **~  Pandapies System:**
 ━━━━━━━━━━━━━━━━━━━
 **Meet Me Here🙈 @Pandapies ✨🥀**
 """
-BOT_TOKEN = "5801133323:AAGE3wxMd0pHUavzezCxYt2fbQ7cp7KhlYU"
-API_ID = "21298319"
-API_HASH = "98430ee9bb9d17b261fd64d6a5d5c0b4"
-SESSION = "BQAhIHQAcRq4uwrB9nKKevwjkjJjzb09DjEiZkPICp4Q77JEe2tmaL_lSVYrul2NktBMzKhlbbdhoLjtWZhd9aSEIPf5gsu4JDnld2t-wqosjlO8_eRqZrmnMn-JxuK0R9roAYatqlrFEDZ6ztahTRZChMrFhLEGdFN0No4WS-wd5lRzPka3JRxBBB3ArzkISASJbTCCzGh16GjR_WvPYFXVZZ-tF8ebMisEGom4fXlXGu6t3WgFRxHcQbkG9qPQmU_BxYCb7VW40aVq5hkQaBq2iCBwlTGeBtHUmHc2VPO8ELVqzEgU59vxl4KuwEGV6qOCSOFC7q8eay6eZMPFgrlUzwewAAAAFJNZd-AA"
+BOT_TOKEN = "5639858361:AAGwjdIC4FFJeTgQ3qXZZnylgDBE74vNB-g"
+API_ID = "27901480"
+API_HASH = "b5929af8c8da2eaaec5babf382e5d7b3"
+SESSION = "BQGpvigAnbcRHBWlOu1w8hH5NtUpzqDh915Qm6Vkuntcdi1yLKSzIFLDLyU9arkF2RkeST2vWcsz-JFQsr5SsNcdfrKDPTbNzUAlWnGMjf-w_V324ZuW-mZ46OBIewZFM6QMrhIfiQelNGy5aCZp7hZCArbcKSzziTMbiuzQJAJQ-O_X7QADAKZiFh2py7k38MsNovKoWAfi-OnWGvc7WTbTn17K5cSWQMsMzpKPMKh1jNoG8WP9kxAcsPtIOUtp03ESQtHRauFhBe2YUfInhU5XZ2d5c_e2MUF6g69pipe7y4rloo9vFuchvYAgWqxcOYAOf_GwdrdfCof51pkChXEaDV3ZRAAAAAB6Gu3tAA"
 
 Pandapies = "https://telegra.ph/file/bf18fb39dad5fb3ab9e7e.png"
